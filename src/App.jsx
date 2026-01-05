@@ -47,7 +47,7 @@ const Layout = ({ children }) => (
   <>
     <Navbar bg="white" expand="lg" className="shadow-sm sticky-top mb-4">
       <Container>
-        <Navbar.Brand as={Link} to="/">7ว่าดัด</Navbar.Brand>
+        <Navbar.Brand as={Link} to="/">Fund4U</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ms-auto">
@@ -67,7 +67,7 @@ const LandingPage = () => (
     <Container>
       <div className="text-center mb-5">
         <h1 className="fw-bold">ร่วมสนับสนุน SME ไทยให้เติบโต</h1>
-        <p className="text-muted">7ว่าดัด - แพลตฟอร์มระดมทุนเพื่อความฝันของธุรกิจขนาดเล็ก</p>
+        <p className="text-muted">Fund4U - แพลตฟอร์มระดมทุนเพื่อความฝันของธุรกิจขนาดเล็ก</p>
       </div>
       <Row>
         {posts.map(post => (

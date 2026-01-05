@@ -1,6 +1,6 @@
 # Conversation Context & Gemini Configuration
 
-## 1. Current Project: 7ว่าดัด (Seven-Wa-Dad)
+## 1. Current Project: Fund4U
 **Description:** A crowdfunding platform prototype for Thai SMEs.
 **Type:** Responsive Static Web Application
 **Tech Stack:** React, Vite, Bootstrap, Google Fonts ('Prompt').
